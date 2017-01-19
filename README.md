@@ -1,0 +1,2 @@
+# luricardorod
+Game Structure
